@@ -1,4 +1,4 @@
-# 🔐 Auth Service – Spring Boot JWT Authentication
+# 🔐 Auth Service
 
 A simple, production-ready authentication microservice built with  **Spring Boot 3, and MySQL**. This service provides secure user registration, login, with proper error handling.
 
