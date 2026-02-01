@@ -92,8 +92,8 @@ The project follows a standard Spring Boot structure:
 
 ## 🧭 Application Flow (High Level)
 
-1. User registers via `/api/auth/signup`
-2. User logs in via `/api/auth/login`
+1. User registers via `/api/v1/signup`
+2. User logs in via `/api/v1/login`
 
 ## 🧩 Module Documentation Index
 
